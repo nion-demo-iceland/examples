@@ -1,3 +1,5 @@
+""" This reads data from a ndata1 file. """
+
 import cStringIO
 import json
 import numpy
